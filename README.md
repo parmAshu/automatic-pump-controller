@@ -25,4 +25,4 @@ off the pump and itself. Thus, the device consumes no energy when not operationa
 
 # Circuit Board
 
-![boards] (/IMG_4160.JPG)
+![boards](/IMG_4160.JPG)
