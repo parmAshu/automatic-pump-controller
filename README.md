@@ -22,3 +22,7 @@ off the pump and itself. Thus, the device consumes no energy when not operationa
 * pcb_designs (this directory contains all the pcb layouts)
 * calculations
 * README.md
+
+# Circuit Board
+
+![boards] (/IMG_4160.JPG)
